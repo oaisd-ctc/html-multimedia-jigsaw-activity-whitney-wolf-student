@@ -1,0 +1,18 @@
+body {
+    background-color:#b8a0db;
+    text-align: center;
+    border: solid 5px;
+    border-color: #f2f0a2;
+}
+h1 {
+    border: double 5px;
+    border-color: #7254a1;
+    border-width: 5px;
+    margin: 50px;
+    color: #f2f0a2
+}
+#elements {
+    border: solid 5px;
+    border-color: #f2f0a2;
+    margin: 0px 600px;
+}
